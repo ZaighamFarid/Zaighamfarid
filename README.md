@@ -17,7 +17,7 @@
   <img align="left" alt="Zaigham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<p  align="left"><img src="https://raw.githubusercontent.com/usmanisofficial/usmanisofficial/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966%20(2).gif">
+<p  align="left"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 ## Hello there 👋
 I'm Zaigham Farid, CS undergrad at FAST National University of Computer & Emerging Sciences. I am a highly motivated and enthusiastic guy. I am a keen observer and always inquisitive to learn new things. I am always looking for growth and a chance to build up my skills. I fit beautifully to the environment and add to the diversity of the team. Currently, I am looking for internships and research projects in the field of Computer science.
