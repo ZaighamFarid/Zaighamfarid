@@ -68,15 +68,14 @@ Figma | Jira | Trello | Agile/Scrum
 ### 💼 Professional Experience
 
 #### **Senior iOS Developer** @ Devsinc
-*March 2022 – October 2025 | Lahore, Pakistan*
-
+*March 2022 – October 2025 
 - Led a team of 3 mobile developers in designing complex features
 - Implemented real-time notifications, in-app purchases, and advanced animations
 - Spearheaded MVVM architecture migration and comprehensive testing strategies
 - Collaborated with backend teams for seamless API integration
 
 #### **iOS Developer** @ Delve Health
-*June 2020 – March 2022 | Lahore, Pakistan*
+*June 2020 – March 2022 
 
 - Integrated HealthKit for Apple Watch sensor data collection
 - Refactored codebase from MVC to MVVM architecture
