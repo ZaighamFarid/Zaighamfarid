@@ -7,7 +7,7 @@ Senior iOS Developer with 5+ years of experience in designing, architecting, and
 ### 🚀 About Me
 
 - 🔭 Currently specializing in **iOS development** with Swift, SwiftUI, and UIKit
-- 💼 **4+ years** of professional mobile development experience
+- 💼 **5+ years** of professional mobile development experience
 - 👨‍💼 Led teams of mobile developers and delivered high-impact features
 - 🎯 Strong focus on **Test-Driven Development (TDD)** with up to 95% test coverage
 - 🏗️ Expert in **MVVM architecture** and legacy code modernization
