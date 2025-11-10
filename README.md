@@ -2,7 +2,7 @@
 
 ## Senior Mobile Developer | iOS Specialist
 
-Senior iOS Developer with 4+ years of experience in designing, architecting, and delivering scalable and robust mobile applications. Passionate about clean code, design patterns, and best practices with a proven track record of leading cross-functional teams and mentoring junior developers.
+Senior iOS Developer with 5+ years of experience in designing, architecting, and delivering scalable and robust mobile applications. Passionate about clean code, design patterns, and best practices with a proven track record of leading cross-functional teams and mentoring junior developers.
 
 ### 🚀 About Me
 
